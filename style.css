@@ -1,0 +1,37 @@
+.main {
+    border: 2px solid gray;
+    width: 300px;
+    margin: 0 auto;
+    background-color: black;
+
+}
+
+#screen {
+    width: 293px;
+    border: 1px solid white;
+    color: black;
+    background-color: white;
+}
+
+.clear {
+    width: 300px;
+    margin: 7px 0;
+    padding: 2px;
+    background-color: black;
+}
+
+.btn {
+    margin: 5px 16px;
+    background-color: black;
+}
+
+.clear,
+.btn {
+    border: 1px solid white;
+    color: red;
+}
+
+.clear:hover,
+.btn:hover {
+    background-color: white;
+}
